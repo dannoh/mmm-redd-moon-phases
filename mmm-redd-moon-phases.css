@@ -1,0 +1,23 @@
+.redd-moon-phases {
+    display: flex;
+    flex-direction: column;
+}
+
+.redd-moon-phases.condensed {
+    flex-direction: row;
+    align-items: center;
+}
+
+.redd-moon-phases .title {
+    font-size: small;
+}
+
+.redd-moon-phases.condensed .redd-moon-phases-img {
+    width: 50px;
+    height: 50px;
+}
+
+.redd-moon-phases.condensed .redd-moon-phases-img svg {
+    width: 50px;
+    height: 50px;
+}
