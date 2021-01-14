@@ -1,6 +1,8 @@
 # Magic Mirror Module: mmm-redd-moon-phases
 This [MagicMirror2](https://github.com/MichMich/MagicMirror) module allows you to fetch an image of the moon in its current phase
 
+![Condensed view screenshot](https://github.com/dannoh/mmm-redd-moon-phases/blob/main/images/condensed.png?raw=true)
+![Full view screenshot](https://github.com/dannoh/mmm-redd-moon-phases/blob/main/images/full.png?raw=true)
 ## Installation
 
 In your terminal, go to your MagicMirror's Module folder:
